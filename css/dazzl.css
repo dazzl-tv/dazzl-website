@@ -16,7 +16,7 @@
 }
 
 .dazzl-intro-section {
-    height: 100%;
+    min-height: 100%;
     padding-top: 150px;
     text-align: center;
     color: white;
@@ -27,14 +27,14 @@
 }
 
 .dazzl-about-section {
-    height: 100%;
+    min-height: 100%;
     padding-top: 100px;
     text-align: center;
     background: #eee;
 }
 
 .dazzl-contact-section {
-    height: 100%;
+    min-height: 100%;
     padding-top: 50px;
     text-align: center;
     background: #fff;
