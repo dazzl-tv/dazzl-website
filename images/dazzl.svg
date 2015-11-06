@@ -11,7 +11,7 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="99.421989mm"
    height="40.922222mm"
-   viewBox="0 0 352.28264 145"
+   viewBox="0 0 358 145"
    id="svg3880"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -36,6 +36,26 @@
          offset="1"
          id="stop3727" />
     </linearGradient>
+    <style type="text/css">
+      <![CDATA[
+        @font-face {
+        font-family: 'AvantGardeGothicITCW01Md';
+        src: url('../fonts/webfonts/2EDDEE_0_0.eot');
+        src: url('../fonts/webfonts/2EDDEE_0_0.eot?#iefix') format('embedded-opentype'),
+             url('../fonts/webfonts/2EDDEE_0_0.woff2') format('woff2'),
+             url('../fonts/webfonts/2EDDEE_0_0.woff') format('woff'),
+             url('../fonts/webfonts/2EDDEE_0_0.ttf') format('truetype');
+        }
+        @font-face {
+        font-family: 'AvantGardeGothicITCW02Bk';
+        src: url('../fonts/webfonts/2EDDEE_2_0.eot');
+        src: url('../fonts/webfonts/2EDDEE_2_0.eot?#iefix') format('embedded-opentype'),
+             url('../fonts/webfonts/2EDDEE_2_0.woff2') format('woff2'),
+             url('../fonts/webfonts/2EDDEE_2_0.woff') format('woff'),
+             url('../fonts/webfonts/2EDDEE_2_0.ttf') format('truetype');
+        }
+      ]]>
+    </style>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -77,14 +97,11 @@
      id="layer1"
      transform="translate(-42.43014,-44.1479)">
     <text
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:45px;line-height:125%;font-family:'ITC Avant Garde Gothic Std';-inkscape-font-specification:'ITC Avant Garde Gothic Std, Medium';text-align:start;writing-mode:lr;text-anchor:start;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none;"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.20000076px;font-family:'AvantGardeGothicITCW02Bk';writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text3703"
        sodipodi:linespacing="125%"
        x="218.40703"
-       y="112.95589"
-       inkscape:export-filename="/Users/lcogne/Desktop/logo.png"
-       inkscape:export-xdpi="400"
-       inkscape:export-ydpi="400">
+       y="112.95589">
       <tspan
          x="218.40703 247.48064 278.41193 299.79584 319.45184"
          y="112.95589"
@@ -92,18 +109,14 @@
          id="tspan3705">dazzl</tspan>
     </text>
     <text
-       style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.5px;line-height:80.00000119%;font-family:'ITC Avant Garde Gothic Std';-inkscape-font-specification:'ITC Avant Garde Gothic Std, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       style="font-variant:normal;font-weight:500;font-stretch:normal;font-size:23.39999962px;font-family:'AvantGardeGothicITCW01Md';writing-mode:lr-tb;fill:#151515;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="text3707"
        sodipodi:linespacing="80.000001%"
        x="217.68279"
-       y="148.73349"
-       inkscape:export-filename="/Users/lcogne/Desktop/logo.png"
-       inkscape:export-xdpi="400"
-       inkscape:export-ydpi="400">
+       y="148.73349">
       <tspan
          sodipodi:role="line"
          id="tspan3819"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:22.5px;line-height:80.00000119%;font-family:'ITC Avant Garde Gothic Std';-inkscape-font-specification:'ITC Avant Garde Gothic Std, Medium';text-align:start;writing-mode:lr-tb;text-anchor:start"
          x="217.68279"
          y="148.73349">live and sharing</tspan>
     </text>
