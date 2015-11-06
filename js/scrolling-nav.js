@@ -9,8 +9,11 @@ $(window).scroll(function() {
 
 //jQuery for page scrolling feature - requires jQuery Easing plugin
 $(function() {
+    $('a.navbar-bran').bind('click', function() {
+        $('#section-list').removeClass("in").attr("aria-expanded", false);
+    });
     $('a.page-scroll').bind('click', function(event) {
-        var parent = $(this).closest("div").removeClass("in").attr("aria-expanded", false);
+        $('#section-list').removeClass("in").attr("aria-expanded", false);
         var $anchor = $(this);
         $('html, body').stop().animate({
             scrollTop: $($anchor.attr('href')).offset().top
