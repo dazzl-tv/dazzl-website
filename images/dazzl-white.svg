@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="99.80481mm"
+   height="40.922222mm"
+   viewBox="0 0 353.63909 145"
+   id="svg3825"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="dazzl-white.svg">
+  <defs
+     id="defs3827">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath342">
+      <path
+         d="m 0,5179 1020,0 L 1020,0 0,0 0,5179 Z"
+         id="path344"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <style type="text/css">
+      <![CDATA[
+        @font-face {
+        font-family: 'AvantGardeGothicITCW01Md';
+        src: url('../fonts/webfonts/2EDDEE_0_0.eot');
+        src: url('../fonts/webfonts/2EDDEE_0_0.eot?#iefix') format('embedded-opentype'),
+             url('../fonts/webfonts/2EDDEE_0_0.woff2') format('woff2'),
+             url('../fonts/webfonts/2EDDEE_0_0.woff') format('woff'),
+             url('../fonts/webfonts/2EDDEE_0_0.ttf') format('truetype');
+        }
+        @font-face {
+        font-family: 'AvantGardeGothicITCW02Bk';
+        src: url('../fonts/webfonts/2EDDEE_2_0.eot');
+        src: url('../fonts/webfonts/2EDDEE_2_0.eot?#iefix') format('embedded-opentype'),
+             url('../fonts/webfonts/2EDDEE_2_0.woff2') format('woff2'),
+             url('../fonts/webfonts/2EDDEE_2_0.woff') format('woff'),
+             url('../fonts/webfonts/2EDDEE_2_0.ttf') format('truetype');
+        }
+      ]]>
+    </style>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="126.08743"
+     inkscape:cy="5.8364568"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1436"
+     inkscape:window-height="856"
+     inkscape:window-x="4"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3830">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-137.46617,-111.2908)">
+    <text
+       y="181.99091"
+       x="314.13101"
+       style="font-variant:normal;font-weight:bold;font-stretch:normal;font-size:43.20000076px;font-family:'AvantGardeGothicITCW02Bk';writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text330">
+      <tspan
+         x="314.13101 343.20462 374.13589 395.51981 415.17581"
+         y="181.99091"
+         sodipodi:role="line"
+         id="tspan332">dazzl</tspan>
+    </text>
+    <text
+       y="217.99078"
+       x="314.13101"
+       style="font-variant:normal;font-weight:500;font-stretch:normal;font-size:23.39999962px;font-family:'AvantGardeGothicITCW01Md';writing-mode:lr-tb;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="text334">
+      <tspan
+         x="314.13101 319.27908 324.42703 335.9866 350.35428 356.78922 372.49063 386.90506 402.5596 408.99466 419.43106 433.84549 449.54691 457.0817 462.22964 476.64407"
+         y="217.99078"
+         sodipodi:role="line"
+         id="tspan336">live and sharing</tspan>
+    </text>
+    <g
+       transform="matrix(1.25,0,0,-1.25,-322.53395,6257.5403)"
+       id="g338">
+      <g
+         id="g340"
+         clip-path="url(#clipPath342)">
+        <g
+           id="g346"
+           transform="translate(411.4111,4831.6396)">
+          <path
+             d="m 0,0 9.391,21.36 -26.67,0 43.2,33.361 L 16.53,33.36 43.2,33.36 0,0 Z m 14.4,85.36 -57.811,0 0,-116 57.811,0 C 46.213,-30.64 72,-4.453 72,27.361 72,59.172 46.213,85.36 14.4,85.36"
+             style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path348"
+             inkscape:connector-curvature="0" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
