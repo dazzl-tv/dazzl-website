@@ -17,7 +17,7 @@
 
 .dazzl-intro-section {
     min-height: 100%;
-    padding-top: 150px;
+    padding-top: 100px;
     text-align: center;
     color: white;
     background: -webkit-linear-gradient(#FF7600, #FF1F54); /* For Safari 5.1 to 6.0 */
@@ -34,7 +34,7 @@
 }
 
 .dazzl-contact-section {
-    min-height: 100%;
+    height: 100%;
     padding-top: 50px;
     text-align: center;
     background: #fff;
